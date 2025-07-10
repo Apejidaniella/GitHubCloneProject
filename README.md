@@ -1,2 +1,2 @@
 This is the description of my repo 
-Modification from main branch
+This change is from the main branch.
